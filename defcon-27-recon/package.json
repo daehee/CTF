@@ -1,0 +1,13 @@
+{
+  "name": "defcon-27",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.513.0",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "daehee <hello@daehee.com>",
+  "license": "MIT"
+}
