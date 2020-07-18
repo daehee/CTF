@@ -5,7 +5,7 @@
   "dependencies": {
     "aws-sdk": "^2.513.0",
     "base65536": "^2.0.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {},
   "scripts": {},
